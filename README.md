@@ -1,5 +1,5 @@
-### Hi, i'm Ernesto Vargas 🤠🦇
-![banner-github](https://github.com/xSarscov/xSarscov/assets/110932159/4b3ac095-b956-4a6c-9681-303b54c6866a)
+# Hi, i'm Ernesto Vargas 🤠🦇
+![banner-github](https://github.com/xSarscov/xSarscov/assets/110932159/309c6142-2df4-4e89-9818-414ff6c989d3)
 <!--
 **xSarscov/xSarscov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
