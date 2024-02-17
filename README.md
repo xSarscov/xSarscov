@@ -25,7 +25,15 @@
 ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
 ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
 
-## Where to find me
+## My stats :chart_with_upwards_trend:
+<a href="https://github.com/anuraghazra/github-readme-stats" align="center">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xSarscov&layout=donut&theme=dark#gh-dark-mode-only" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xSarscov&layout=donut&theme=default#gh-light-mode-only" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=xSarscov&card_width=320&show_icons=true&theme=dark#gh-dark-mode-only" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=xSarscov&card_width=320&show_icons=true&theme=default#gh-light-mode-only" />
+</a>
+
+## Where to find me 🌐
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/ernestox91/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vargasernest7@.com)
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://www.facebook.com/Mr.Vargas.1903)
