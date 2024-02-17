@@ -26,10 +26,12 @@
 ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
 
 ## My stats :chart_with_upwards_trend:
-<a href="https://github.com/anuraghazra/github-readme-stats" align="center">
+<a href="https://github.com/anuraghazra/github-readme-stats&theme=dark#gh-dark-mode-only">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xSarscov&layout=donut&theme=dark#gh-dark-mode-only" />
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xSarscov&layout=donut&theme=default#gh-light-mode-only" />
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=xSarscov&card_width=320&show_icons=true&theme=dark#gh-dark-mode-only" />
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats&theme=default#gh-light-mode-only">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xSarscov&layout=donut&theme=default#gh-light-mode-only" />
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=xSarscov&card_width=320&show_icons=true&theme=default#gh-light-mode-only" />
 </a>
 
