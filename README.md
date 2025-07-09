@@ -42,11 +42,6 @@
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=xSarscov&card_width=320&show_icons=true&theme=default#gh-light-mode-only" />
 </a>
 
-## Where to find me 🌐
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:xsarscov19@.com)
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ernesto-vargas-120404287/)
-
-
 
 <!--
 **xSarscov/xSarscov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
